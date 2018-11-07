@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # 基于vue2.0+vuex+localStorage写的记事本
 
 ## 写在前面
@@ -59,16 +59,12 @@ export default actions
 ## 项目启动
 
 ``` bash
-# install dependencies
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 打开端口号8080（默认）
 npm run dev
 
-# build for production with minification
+# 启后台
 npm run build
 ```
-=======
-# todo_List
-使用vue以及vuex做的一个代办事项。
->>>>>>> 3324e4a09e22857e0b03857d3e5757df47ba5cd9
